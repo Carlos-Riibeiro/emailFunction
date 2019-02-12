@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poc.EmailFunction.HttpTrigger", "Poc.EmailFunction.HttpTrigger\Poc.EmailFunction.HttpTrigger.csproj", "{283135E9-652B-4D3E-8F5E-ECB2346C699C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{283135E9-652B-4D3E-8F5E-ECB2346C699C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283135E9-652B-4D3E-8F5E-ECB2346C699C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283135E9-652B-4D3E-8F5E-ECB2346C699C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283135E9-652B-4D3E-8F5E-ECB2346C699C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6CF3CD6-2495-4EE5-9E70-C060C0EB3700}
+	EndGlobalSection
+EndGlobal
